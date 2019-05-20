@@ -4,4 +4,6 @@
 
 是指使用随机数（或更常见的伪随机数）来解决很多计算问题的方法。 
 
-原理及代码实现请移步https://blog.csdn.net/catkin_ws/article/details/90376410
+代码为简单的Monte Carlo原理求π值以及求定积分。
+
+原理及代码具体解释请移步https://blog.csdn.net/catkin_ws/article/details/90376410
